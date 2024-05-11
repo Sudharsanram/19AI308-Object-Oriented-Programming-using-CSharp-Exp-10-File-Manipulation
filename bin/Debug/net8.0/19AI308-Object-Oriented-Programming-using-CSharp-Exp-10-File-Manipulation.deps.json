@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "19AI308-Object-Oriented-Programming-using-CSharp-Exp-10-File-Manipulation/1.0.0": {
+        "runtime": {
+          "19AI308-Object-Oriented-Programming-using-CSharp-Exp-10-File-Manipulation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "19AI308-Object-Oriented-Programming-using-CSharp-Exp-10-File-Manipulation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
